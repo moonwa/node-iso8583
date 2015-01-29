@@ -1,0 +1,25 @@
+{
+  "name": "node-iso8583",
+  "version": "0.0.1",
+  "description": "iso 8583",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moonwa/node-iso8583.git"
+  },
+  "keywords": [
+    "8583"
+  ],
+  "author": "moon.wa",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/moonwa/node-iso8583/issues"
+  },
+  "homepage": "https://github.com/moonwa/node-iso8583"
+}
