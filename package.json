@@ -1,7 +1,7 @@
 {
-  "name": "node-iso8583",
+  "name": "unionpay-8583",
   "version": "0.0.1",
-  "description": "iso 8583",
+  "description": "china union pay 8583",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "https://github.com/moonwa/node-iso8583.git"
   },
   "keywords": [
-    "8583"
+    "8583 unionpay"
   ],
   "author": "moon.wa",
   "license": "mit",
